@@ -2,6 +2,7 @@
   "name": "notion-clone",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://paulovictorferreira.com.br/jotion/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
